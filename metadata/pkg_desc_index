@@ -1,5 +1,5 @@
 app-crypt/gtkhash 1.5 9999: A cross-platform desktop utility for computing message digests or checksums
-app-misc/linux-firewire-utils 0.4-r2: Utilities to list and configure FireWire devices
+app-misc/linux-firewire-utils 0.4-r3 0.5.0: Utilities to list and configure FireWire devices
 dev-libs/cl 9999: OpenCL bindings for Erlang
 dev-util/DirectXShaderCompiler 1.7.2212: Microsoft DirectX Shader Compiler which is based on LLVM/Clang
 games-misc/8ball 20210514 99999999: Magic 8-ball toy
