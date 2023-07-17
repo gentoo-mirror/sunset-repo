@@ -6,6 +6,7 @@ games-misc/8ball 20210514 99999999: Magic 8-ball toy
 games-simulation/powdertoy 97.0.352: A desktop version of the classic 'falling sand' physics sandbox
 media-gfx/wings 2.2.9: Wings 3D is an advanced subdivision modeler
 media-libs/amdvlk 2023.2.2: AMD Open Source Driver for Vulkan
+media-sound/reflac 2.0.1: Recompress FLAC files while preserving tags
 media-sound/rsgain 3.3: A simple, but powerful ReplayGain 2.0 tagging utility
 net-p2p/syncthing-gtk 0.9.4.5-r1: GTK3 & Python GUI for syncthing
 sys-fs/diskdev_cmds 540.1-r2: HFS and HFS+ utils ported from OSX, supplies mkfs and fsck
