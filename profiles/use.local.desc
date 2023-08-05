@@ -9,7 +9,17 @@ app-crypt/gtkhash:nemo - Build the checksums plugin for use inside Nemo from Cin
 app-crypt/gtkhash:nettle - Support calculating checksums with dev-libs/nettle
 app-crypt/gtkhash:openssl - Support calculating checksums with libcrypto from dev-libs/openssl
 app-crypt/gtkhash:thunar - Build the checksums plugin for use inside Thunar from XFCE
+dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
+dev-libs/glib:elf - Enable support for listing and extracting from ELF resource files with gresource tool
+dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
+dev-libs/glib:sysprof - Enable profiling data capture support using dev-util/sysprof-capture
+dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
+dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
 games-simulation/powdertoy:curl - Enable online functionality using libcurl
 games-simulation/powdertoy:fftw - Use Fast Fourier Transforms for a huge speedup in gravity computation
 games-simulation/powdertoy:lto - Enable Link Time Optimization, runs smoother with more particles
 media-libs/amdvlk:raytracing - Enable Vulkan raytracing support in AMDVLK, requires dev-util/DirectXShaderCompiler to build. Disable if you have weak hardware.
+net-im/64gram:enchant - Use the app-text/enchant spell-checking backend instead of app-text/hunspell
+net-im/64gram:fonts - Use builtin patched copy of open-sans fonts (overrides fontconfig)
+net-im/64gram:qt6 - Build with Qt6 support
+net-im/64gram:qt6-imageformats - Add support for HEIF, AVIF and JpegXL by bundling kde-frameworks/kimageformats
