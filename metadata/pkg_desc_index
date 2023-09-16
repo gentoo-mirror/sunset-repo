@@ -1,23 +1,20 @@
 app-crypt/gtkhash 1.5 9999: A cross-platform desktop utility for computing message digests or checksums
 app-misc/linux-firewire-utils 0.4-r3 0.5.0: Utilities to list and configure FireWire devices
 dev-cpp/cppgir 0_p20230822: GObject-Introspection C++ binding wrapper generator
-dev-cpp/glibmm 2.77.0: C++ interface for glib2
 dev-libs/cl 9999: OpenCL bindings for Erlang
-dev-libs/glib 2.77.1: The GLib library of C routines
 dev-util/DirectXShaderCompiler 1.7.2212: Microsoft DirectX Shader Compiler which is based on LLVM/Clang
-dev-util/gdbus-codegen 2.77.1: GDBus code and documentation generator
 games-misc/8ball 20210514 99999999: Magic 8-ball toy
 games-simulation/powdertoy 97.0.352: A desktop version of the classic 'falling sand' physics sandbox
 media-gfx/wings 2.2.9: Wings 3D is an advanced subdivision modeler
 media-libs/amdvlk 2023.2.2 2023.2.3: AMD Open Source Driver for Vulkan
 media-sound/reflac 2.0.1: Recompress FLAC files while preserving tags
 media-sound/rsgain 3.3: A simple, but powerful ReplayGain 2.0 tagging utility
-net-im/64gram 1.0.88 1.0.91: Unofficial Telegram Desktop fork with added patches and features
+net-im/64gram 1.0.88 1.0.93: Unofficial Telegram Desktop fork with added patches and features
 net-p2p/syncthing-gtk 0.9.4.5-r2: GTK3 & Python GUI for syncthing
 sys-fs/diskdev_cmds 540.1-r2: HFS and HFS+ utils ported from OSX, supplies mkfs and fsck
 sys-kernel/aura-gpu 9999: i2c driver for Asus AURA RGB lighting in GPUs
 sys-kernel/it87 9999: IT8705F/IT871xF/IT872xF hardware monitoring driver
-x11-themes/cloudy 20230831 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
+x11-themes/cloudy 20230914 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
 x11-themes/flat-remix 20230622 99999999: An icon theme inspired by material design
 x11-themes/gnome-xpro 2: Light Mac-like theme for GTK+2/3, Metacity, xfwm based off Arc-Theme
 x11-themes/openzone-cursors 1.2.9 9999: OpenZone mouse cursor theme for X11 and Wayland
