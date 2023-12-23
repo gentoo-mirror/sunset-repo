@@ -6,6 +6,7 @@ games-misc/8ball 20210514 99999999: Magic 8-ball toy
 games-simulation/powdertoy 97.0.352: A desktop version of the classic 'falling sand' physics sandbox
 media-gfx/wings 2.3: Wings 3D is an advanced subdivision modeler
 media-libs/amdvlk 2023.2.2 2023.2.3: AMD Open Source Driver for Vulkan
+media-sound/moodbar 1.2.1: Generates audio timeline visualization data for use with Clementine and Amarok
 media-sound/reflac 2.0.1: Recompress FLAC files while preserving tags
 media-sound/rsgain 3.4: A simple, but powerful ReplayGain 2.0 tagging utility
 net-im/64gram 1.1.5: Unofficial Telegram Desktop fork with added patches and features
