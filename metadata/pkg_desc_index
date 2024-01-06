@@ -15,7 +15,7 @@ net-p2p/syncthing-gtk 0.9.4.5-r2: GTK3 & Python GUI for syncthing
 sys-fs/diskdev_cmds 540.1-r2: HFS and HFS+ utils ported from OSX, supplies mkfs and fsck
 sys-kernel/aura-gpu 9999: i2c driver for Asus AURA RGB lighting in GPUs
 sys-kernel/it87 9999: IT8705F/IT871xF/IT872xF hardware monitoring driver
-x11-themes/cloudy 20231218 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
+x11-themes/cloudy 20240104 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
 x11-themes/flat-remix 20230622 99999999: An icon theme inspired by material design
 x11-themes/gnome-xpro 2: Light Mac-like theme for GTK+2/3, Metacity, xfwm based off Arc-Theme
 x11-themes/openzone-cursors 1.2.9 9999: OpenZone mouse cursor theme for X11 and Wayland
