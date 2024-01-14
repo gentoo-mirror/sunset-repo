@@ -7,5 +7,5 @@ LICENSE=GPL-3
 RDEPEND=x11-themes/gtk-engines-adwaita x11-themes/gtk-engines-murrine
 RESTRICT=mirror
 SLOT=0
-SRC_URI=https://github.com/i-mint/Cloudy/archive/6c68090ab4c1917a078c711d43357d007425fd7f.tar.gz -> cloudy-20240104.tar.gz
-_md5_=f21cf76d692b334cde2df57d181e7a22
+SRC_URI=https://github.com/i-mint/Cloudy/archive/c1cec63f2a0a2b8e0aa2ae23f1f0771d28ec6aaa.tar.gz -> cloudy-20240111.tar.gz
+_md5_=1d263dcb0a3aaa466dae51da2abb7e3e
