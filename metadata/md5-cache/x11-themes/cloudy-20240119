@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
+EAPI=7
+HOMEPAGE=https://github.com/i-mint/Cloudy
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=x11-themes/gtk-engines-adwaita x11-themes/gtk-engines-murrine
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/i-mint/Cloudy/archive/f7417b26399c7767bf382d21512c9166055c5b73.tar.gz -> cloudy-20240119.tar.gz
+_md5_=362a0634ae24bbee3b39e6b024b1eecb
