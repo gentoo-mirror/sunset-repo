@@ -3,7 +3,7 @@ app-misc/linux-firewire-utils 0.4-r3 0.5.0: Utilities to list and configure Fire
 dev-libs/cl 9999: OpenCL bindings for Erlang
 dev-util/DirectXShaderCompiler 1.7.2212: Microsoft DirectX Shader Compiler which is based on LLVM/Clang
 games-misc/8ball 20210514 99999999: Magic 8-ball toy
-games-simulation/powdertoy 97.0.352: A desktop version of the classic 'falling sand' physics sandbox
+games-simulation/powdertoy 97.0.352 98.0.362b: A desktop version of the classic 'falling sand' physics sandbox
 media-gfx/wings 2.3: Wings 3D is an advanced subdivision modeler
 media-libs/amdvlk 2023.2.2 2023.2.3: AMD Open Source Driver for Vulkan
 media-plugins/gst-plugins-gme 1.22.3-r3: Various video game music formats decoder plugin for GStreamer
