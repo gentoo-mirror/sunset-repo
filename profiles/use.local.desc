@@ -10,7 +10,6 @@ app-crypt/gtkhash:nettle - Support calculating checksums with dev-libs/nettle
 app-crypt/gtkhash:openssl - Support calculating checksums with libcrypto from dev-libs/openssl
 app-crypt/gtkhash:thunar - Build the checksums plugin for use inside Thunar from XFCE
 games-simulation/powdertoy:curl - Enable online functionality using libcurl
-games-simulation/powdertoy:fftw - Use Fast Fourier Transforms for a huge speedup in gravity computation
 games-simulation/powdertoy:lto - Enable Link Time Optimization, runs smoother with more particles
 net-im/64gram:enchant - Use the app-text/enchant spell-checking backend instead of app-text/hunspell
 net-im/64gram:fonts - Use builtin patched copy of open-sans fonts (overrides fontconfig)

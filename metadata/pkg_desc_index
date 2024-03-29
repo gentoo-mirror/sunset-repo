@@ -2,7 +2,7 @@ app-crypt/gtkhash 1.5 9999: A cross-platform desktop utility for computing messa
 app-misc/linux-firewire-utils 0.4-r3 0.5.0: Utilities to list and configure FireWire devices
 dev-libs/cl 9999: OpenCL bindings for Erlang
 games-misc/8ball 20210514 99999999: Magic 8-ball toy
-games-simulation/powdertoy 97.0.352 98.0.362b: A desktop version of the classic 'falling sand' physics sandbox
+games-simulation/powdertoy 98.0.362b 98.0.363: A desktop version of the classic 'falling sand' physics sandbox
 media-gfx/wings 2.3: Wings 3D is an advanced subdivision modeler
 media-plugins/gst-plugins-gme 1.22.3-r3: Various video game music formats decoder plugin for GStreamer
 media-sound/moodbar 1.2.1: Generates audio timeline visualization data for use with Clementine and Amarok
