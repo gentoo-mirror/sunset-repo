@@ -9,13 +9,13 @@ media-sound/moodbar 1.3.0: Generates audio timeline visualization data for use w
 media-sound/reflac 2.0.1: Recompress FLAC files while preserving tags
 media-sound/rsgain 3.5: A simple, but powerful ReplayGain 2.0 tagging utility
 mpv-plugin/mpv_thumbnail_script 0.5.3-r1: A Lua script to show preview thumbnails in mpv's OSC seekbar
-net-im/64gram 1.1.17: Unofficial Telegram Desktop fork with added patches and features
+net-im/64gram 1.1.22: Unofficial Telegram Desktop fork with added patches and features
 net-p2p/syncthing-gtk 0.9.4.5-r2: GTK3 & Python GUI for syncthing
 sys-fs/diskdev_cmds 540.1-r2: HFS and HFS+ utils ported from OSX, supplies mkfs and fsck
 sys-kernel/aura-gpu 9999: i2c driver for Asus AURA RGB lighting in GPUs
 sys-kernel/it87 9999: IT8705F/IT871xF/IT872xF hardware monitoring driver
 x11-misc/caffeine-ng 9999: Stop the desktop from becoming idle in full-screen mode. (Fork of Caffeine)
-x11-themes/cloudy 20240419 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
+x11-themes/cloudy 20240518 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
 x11-themes/flat-remix 20240201 99999999: An icon theme inspired by material design
 x11-themes/gnome-xpro 2: Light Mac-like theme for GTK+2/3, Metacity, xfwm based off Arc-Theme
 x11-themes/openzone-cursors 1.2.9 9999: OpenZone mouse cursor theme for X11 and Wayland
