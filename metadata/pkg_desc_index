@@ -8,7 +8,6 @@ media-plugins/gst-plugins-gme 1.22.3-r3: Various video game music formats decode
 media-sound/moodbar 1.3.0: Generates audio timeline visualization data for use with Clementine and Amarok
 media-sound/reflac 2.0.1: Recompress FLAC files while preserving tags
 media-sound/rsgain 3.5: A simple, but powerful ReplayGain 2.0 tagging utility
-mpv-plugin/mpv_thumbnail_script 0.5.3-r1: A Lua script to show preview thumbnails in mpv's OSC seekbar
 net-im/64gram 1.1.28: Unofficial Telegram Desktop fork with added patches and features
 net-p2p/syncthing-gtk 0.9.4.5-r2: GTK3 & Python GUI for syncthing
 sys-fs/diskdev_cmds 540.1-r2: HFS and HFS+ utils ported from OSX, supplies mkfs and fsck
