@@ -13,5 +13,6 @@ games-simulation/powdertoy:curl - Enable online functionality using libcurl
 games-simulation/powdertoy:lto - Enable Link Time Optimization, runs smoother with more particles
 net-im/64gram:enchant - Use the app-text/enchant spell-checking backend instead of app-text/hunspell
 net-im/64gram:fonts - Use builtin patched copy of open-sans fonts (overrides fontconfig)
+net-im/64gram:libdispatch - Use dev-libs/libdispatch to speed up concurrent code execution
 net-im/64gram:qt6 - Build with Qt6 support
 net-im/64gram:qt6-imageformats - Add support for HEIF, AVIF and JpegXL by bundling kde-frameworks/kimageformats
