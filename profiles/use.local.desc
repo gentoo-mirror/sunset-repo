@@ -16,3 +16,5 @@ net-im/64gram:fonts - Use builtin patched copy of open-sans fonts (overrides fon
 net-im/64gram:libdispatch - Use dev-libs/libdispatch to speed up concurrent code execution
 net-im/64gram:qt6 - Build with Qt6 support
 net-im/64gram:qt6-imageformats - Add support for HEIF, AVIF and JpegXL by bundling kde-frameworks/kimageformats
+x11-themes/cloudy:gtk2 - Depend on the Adwaita and Murrine theme engines for optional GTK+2 support
+x11-themes/gnome-xpro:gtk2 - Depend on the Adwaita and Murrine theme engines for optional GTK+2 support
