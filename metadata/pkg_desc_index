@@ -1,4 +1,4 @@
-app-crypt/gtkhash 1.5 9999: A cross-platform desktop utility for computing message digests or checksums
+app-crypt/gtkhash 1.5-r1 9999: A cross-platform desktop utility for computing message digests or checksums
 app-misc/linux-firewire-utils 0.4-r3 0.5.1: Utilities to list and configure FireWire devices
 dev-libs/cl 9999: OpenCL bindings for Erlang
 games-misc/8ball 20210514 99999999: Magic 8-ball toy
@@ -13,7 +13,7 @@ sys-fs/diskdev_cmds 540.1-r2: HFS and HFS+ utils ported from OSX, supplies mkfs 
 sys-kernel/aura-gpu 9999: i2c driver for Asus AURA RGB lighting in GPUs
 sys-kernel/it87 9999: IT8705F/IT871xF/IT872xF hardware monitoring driver
 x11-misc/caffeine-ng 9999: Stop the desktop from becoming idle in full-screen mode. (Fork of Caffeine)
-x11-themes/cloudy 20240923 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
+x11-themes/cloudy 20240930 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
 x11-themes/flat-remix 20240201 99999999: An icon theme inspired by material design
 x11-themes/gnome-xpro 2: Light Mac-like theme for GTK+2/3, Metacity, xfwm based off Arc-Theme
 x11-themes/openzone-cursors 1.2.9 9999: OpenZone mouse cursor theme for X11 and Wayland
