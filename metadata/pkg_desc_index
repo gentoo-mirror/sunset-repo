@@ -13,6 +13,7 @@ sys-fs/diskdev_cmds 540.1-r2: HFS and HFS+ utils ported from OSX, supplies mkfs 
 sys-kernel/aura-gpu 9999: i2c driver for Asus AURA RGB lighting in GPUs
 sys-kernel/it87 9999: IT8705F/IT871xF/IT872xF hardware monitoring driver
 x11-misc/caffeine-ng 9999: Stop the desktop from becoming idle in full-screen mode. (Fork of Caffeine)
+x11-misc/gpaste 45.2: Clipboard management system
 x11-themes/cloudy 20240930 99999999: Gtk2, Gtk3, Gnome Shell, Cinnamon & Metacity themes base on Arc-Theme
 x11-themes/flat-remix 20240201 99999999: An icon theme inspired by material design
 x11-themes/gnome-xpro 2: Light Mac-like theme for GTK+2/3, Metacity, xfwm based off Arc-Theme
