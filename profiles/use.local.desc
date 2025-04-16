@@ -11,6 +11,7 @@ app-crypt/gtkhash:openssl - Support calculating checksums with libcrypto from de
 app-crypt/gtkhash:thunar - Build the checksums plugin for use inside Thunar from XFCE
 games-simulation/powdertoy:curl - Enable online functionality using libcurl
 games-simulation/powdertoy:lto - Enable Link Time Optimization, runs smoother with more particles
+games-simulation/simutrans:midi - support for background MIDI music via media-sound/fluidsynth
 x11-misc/gpaste:gnome - Enable proper gnome support and enable gnome shell extension.
 x11-themes/cloudy:gtk2 - Depend on the Adwaita and Murrine theme engines for optional GTK+2 support
 x11-themes/gnome-xpro:gtk2 - Depend on the Adwaita and Murrine theme engines for optional GTK+2 support
